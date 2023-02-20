@@ -1,3 +1,8 @@
+.Photos h3 {
+  font-weight: bold;
+  font-size: 24px;
+}
+
 .Photos img {
   border-radius: 4px;
   margin-bottom: 20px;
