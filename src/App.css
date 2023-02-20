@@ -1,3 +1,9 @@
+.App {
+  padding: 60px 0 100px;
+  margin: 0 auto;
+  max-width: 960px;
+}
+
 body {
   background: #f9f8fe;
 }
@@ -8,12 +14,4 @@ a {
 .App-footer {
   text-align: center;
   margin: 30px;
-}
-
-.Dictionary section {
-  background: #fff;
-  padding: 30px;
-  border-radius: 16px;
-  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
-  margin: 20px 0;
 }
